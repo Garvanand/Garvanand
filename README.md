@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about Web Development, Problem Solv
 
 ## About Me
 
-- 💼 I'm currently working as a Student at VIT.
+- 💼 I'm currently a Student at VIT.
 - 🌱 I'm constantly learning and exploring new technologies
 - 👯 I'm open to collaborations and discussions on ML Algos, Python Development and open source contributions and contributions in field of AI.
 - 📫 How to reach me: garvanand03@gmail.com
