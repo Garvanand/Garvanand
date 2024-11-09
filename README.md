@@ -111,7 +111,6 @@ Hello! I'm a passionate **Student at VIT**, currently exploring the world of **M
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Garvanand&theme=dark">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Garvanand&theme=tokyonight&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Garvanand&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Garvanand&theme=radical">
 
 
 </div>
