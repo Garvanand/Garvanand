@@ -19,7 +19,7 @@ Hello! I'm a passionate **Student at VIT**, currently exploring the world of **M
 
 - 🌐 **Let’s Connect:** You can reach me at [garvanand03@gmail.com](mailto:garvanand03@gmail.com). I’m always happy to discuss ideas, share knowledge, or collaborate on interesting ventures.
 
-- 🔗 **Explore My Work:** Take a look at my portfolio to see some of the projects I’ve worked on and the impact I’m aiming to create in the world of technology. [My Portfolio](https://garvanand-github-io-git-main-garvanand.vercel.app/)
+- 🔗 **Explore My Work:** Take a look at my portfolio to see some of the projects I’ve worked on and the impact I’m aiming to create in the world of technology. [My Portfolio](https://garv-anand.vercel.app/)
 
  
 ## 🌐 Socials:
